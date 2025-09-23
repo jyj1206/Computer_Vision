@@ -3,3 +3,6 @@
 *.json
 *.zip
 *.jpg
+*/__MACOSX/
+*/output/
+*/balloon/
